@@ -2,3 +2,9 @@
 /emailManager/.idea/*
 /emailManager/.env
 .DS_Store
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProjects.iml
+.idea/vcs.xml
+.idea/workspace.xml
